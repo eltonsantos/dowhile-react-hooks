@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<p align="center"> Sample app used during my react-hooks workshop at RocketSeat Dowhile.</p>
+<p align="center"> Sample app used during my react-hooks workshop at RocketSeat DoWhile.</p>
 
 <br>
 <br>
@@ -14,7 +14,7 @@
 Clone the repository.
 
 ```sh
-git clone https://github.com/vitormalencar/
+git clone https://github.com/eltonsantos/
 ```
 
 `cd` into the directory.
